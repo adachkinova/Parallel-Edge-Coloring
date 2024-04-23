@@ -1,0 +1,4 @@
+org\example\Graph.class
+org\example\Main.class
+org\example\ParallelGraphColoring.class
+org\example\Arc.class
